@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ca4ac54d_804a1d4b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 14048
+      },
+      "writtenOn": "2023-10-06T17:15:20Z",
+      "side": 1,
+      "message": "Fixes boot on tegra xavier targets.",
+      "revId": "b77458a383bfb0ddabdc66003ffe9cb5d42e0e91",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
