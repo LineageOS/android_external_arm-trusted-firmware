@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "c65b2f2b_19fd1db6",
+        "filename": "plat/nvidia/tegra/soc/t210/plat_setup.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 299,
+      "author": {
+        "id": 27741
+      },
+      "writtenOn": "2023-10-24T14:56:37Z",
+      "side": 1,
+      "message": "unrelated whitespace",
+      "revId": "bcc1d40f3fd515c25be7d6ce8b98e8e120008f96",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
