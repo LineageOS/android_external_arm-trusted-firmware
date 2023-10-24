@@ -16,6 +16,24 @@
       "message": "verified on nx, might wanna fixup whitespace crap",
       "revId": "4ea04d1abeb2f1d0ee98bf6505819174d60d6374",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3bd3b42d_cf77352e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2023-10-24T14:40:47Z",
+      "side": 1,
+      "message": "What whitespace crap? The indentation is correct.",
+      "parentUuid": "784376c0_c7e95a3f",
+      "revId": "4ea04d1abeb2f1d0ee98bf6505819174d60d6374",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
