@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e613c5a9_7491d534",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 27741
+      },
+      "writtenOn": "2023-10-24T14:30:51Z",
+      "side": 1,
+      "message": "note: works on nx with uboot uart stuff disabled but need to verify how this impacts other targets",
+      "revId": "bab80e2c63ad336c245eb70415f2443dd3c32b34",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
