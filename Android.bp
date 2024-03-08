@@ -10,7 +10,8 @@ license {
     license_text: ["LICENSE"],
 }
 
-filegroup {
+cc_library_headers {
     name: "arm_dt_bindings_headers",
-    srcs: ["include/dt-bindings/**/*.h"],
+    export_include_dirs: ["include"],
+    host_supported: true,
 }
