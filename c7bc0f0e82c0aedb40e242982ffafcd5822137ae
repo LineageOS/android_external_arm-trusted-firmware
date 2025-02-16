@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "06e671e7_5cff7f68",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 14048
+      },
+      "writtenOn": "2025-02-16T06:12:42Z",
+      "side": 1,
+      "message": "Hold to see how the upstream maintainer wants to handle this.",
+      "revId": "c7bc0f0e82c0aedb40e242982ffafcd5822137ae",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
