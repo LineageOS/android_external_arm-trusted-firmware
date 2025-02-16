@@ -16,6 +16,23 @@
       "message": "Hold to see how the upstream maintainer wants to handle this.",
       "revId": "c7bc0f0e82c0aedb40e242982ffafcd5822137ae",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c3adcba7_d2643141",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 14048
+      },
+      "writtenOn": "2025-02-16T06:51:43Z",
+      "side": 1,
+      "message": "https://review.trustedfirmware.org/c/TF-A/trusted-firmware-a/+/35535\nUpstream submission, for reference.",
+      "revId": "c7bc0f0e82c0aedb40e242982ffafcd5822137ae",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
