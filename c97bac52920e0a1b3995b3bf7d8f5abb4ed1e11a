@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5a504238_a35ce9a3",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 14048
+      },
+      "writtenOn": "2025-03-12T03:58:28Z",
+      "side": 1,
+      "message": "Queuing this for merge on 21 to unblock some stuff. The current 22.x branch copy is still held on purpose to wait for upstream resolution.",
+      "revId": "c97bac52920e0a1b3995b3bf7d8f5abb4ed1e11a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
