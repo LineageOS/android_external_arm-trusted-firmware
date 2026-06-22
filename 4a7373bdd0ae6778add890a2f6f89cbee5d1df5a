@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "14ad6d08_155a5358",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 14048
+      },
+      "writtenOn": "2026-06-22T18:23:59Z",
+      "side": 1,
+      "message": "I\u0027ve moved tegra to vendor specific forks of atf. These can be dropped and the repo unforked.",
+      "revId": "4a7373bdd0ae6778add890a2f6f89cbee5d1df5a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
